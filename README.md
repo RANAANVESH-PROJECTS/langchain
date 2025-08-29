@@ -17,7 +17,6 @@ Examples on Langchain Concepts
 
 ## 2) Run the examples by running each file
 
-### Basic LCEL chain (single span)
 ```bash
 langchain/basic_chaining.py
 ```
